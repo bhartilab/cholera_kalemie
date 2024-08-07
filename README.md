@@ -1,4 +1,4 @@
-# Minial data and code for the analyses and figures in "Impact of a multi-pronged cholera intervention in an endemic setting"
+# Minimal data and code for the analyses and figures in "Impact of a multi-pronged cholera intervention in an endemic setting"
 
 # Structure
 
